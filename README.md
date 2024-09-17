@@ -189,6 +189,78 @@ Tables can be a great way to display information in your README, but can be a bi
 |                [Submit Button]                          |
 -----------------------------------------------------------
 
+-----------------------------------------------------------
+| Navigation Bar: Home | Games | Submit | Login/Register  |
+-----------------------------------------------------------
+|               Submit Difficulty Information              |
+|---------------------------------------------------------|
+|                                                         |
+|   Game:               [Devil May Cry V]                 |
+|                                                         |
+|   Difficulty:         [Dante Must Die/Very Hard]        |
+|                                                         |
+|   Enemy Health:       [200%]                            |
+|                                                         |
+|   AI Difficulty:      [Yes]                             |
+|                                                         |
+|   Player Health:      [33%]                             |
+|                                                         |
+|   Resources Available: [Lowered]                        |
+|                                                         |
+|   Opinion:                                               |
+|                                                         |
+|       Dante Must Die difficulty is only available for    |
+|       players who have beaten the game on both Devil     |
+|       Hunter and Son of Sparda difficulties. However,    |
+|       for players on the PS5 and Series X versions, it   |
+|       can be unlocked simply by beating the game once    |
+|       on Legendary Dark Knight. This difficulty setting  |
+|       is generally aimed at players playing on New Game  |
+|       Plus who have already maxed out their character    |
+|       data. It includes rearranged enemies who are both  |
+|       more intelligent, more aggressive, and can take    |
+|       more damage.                                       |
+|                                                         |
+|       While this could be irritating in some genres,     |
+|       I would say that Devil May Cry does a good job of  |
+|       handling it due to the game's focus on combos,     |
+|       tricks, and dealing a large amount of damage to    |
+|       individual enemies without taking a single hit.    |
+|       As a result, I don't feel that the increased enemy |
+|       health detracts from the core pillars of the game. |
+|                                                         |
+|       If there is one major flaw to Dante Must Die       |
+|       difficulty, it's that the game's health and life   |
+|       system is still very exploitable. Players can      |
+|       easily spam gold orbs, and to make things      |
+|       worse, there is a pay-to-win system where players  |
+|       can pay real money to come back to life in the     |
+|       game. This somewhat hurts my ability to recommend  |
+|       this as a good difficulty setting, although in     |
+|       most other ways, it's a solid and unexpected       |
+|       inclusion.                                         |
+|                                                         |
+|---------------------------------------------------------|
+|                Additional Features (Tick Boxes)         |
+|   [ ] Extra Content                                      |
+|   [X] Exclusive Unlockables                              |
+|   [X] Trophies                                           |
+|   [X] Unlockable Difficulty                              |
+|   [X] New Game Plus Only                                 |
+|   [X] Switchable Mid-Game                                |
+|   [X] Trophy Stacking   
+|  `[X] PTW
+|---------------------------------------------------------|
+|   Other (Not Listed): [Text Box for custom features]     |
+|---------------------------------------------------------|
+|                [Submit Button]                          |
+-----------------------------------------------------------
+
+-----------------------------------------------------------
+
+
+
+
 
 Markdown for creating a table:
 
