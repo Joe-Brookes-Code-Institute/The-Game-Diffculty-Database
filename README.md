@@ -1,7 +1,7 @@
 # The-Game-Diffculty-Database
 ![Creating your first README hero image]![image](https://github.com/user-attachments/assets/86d4475c-2c4d-46c3-abca-7d9ae162ca6d)
 
-![image](https://github.com/user-attachments/assets/96dd5766-cf1f-40db-9368-43692b584f13)
+
 
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat=markdown&logoColor=white) ![GitHub contributors](https://img.shields.io/github/contributors/kera-cudmore/readme-examples?style=flat) ![GitHub last commit](https://img.shields.io/github/last-commit/kera-cudmore/readme-examples?style=flat)  ![GitHub Repo stars](https://img.shields.io/github/stars/kera-cudmore/readme-examples?style=social)  ![GitHub forks](https://img.shields.io/github/forks/kera-cudmore/readme-examples?style=social)
@@ -37,48 +37,41 @@ Find the slide show for this webinar [here](https://docs.google.com/presentation
 
 ## What's is The-Game-Diffculty-Database
 
-A site that allows you to look up the difficulty settings of various games and how they affect gameplay and overall experience
+The Game Difficulty Database is a platform designed to provide detailed information about the difficulty settings of various games. It helps players understand how different difficulty levels affect gameplay and overall experience.
 - - -
 
 ## Why
 
-I notice that a lot of games don't give detailed descriptions of what difficulty settings actually do often they only give vague statements such as weird titles claims that they will be more intense more challenging etc but given that this is one of the most important choices players will make in a lot of titles in terms of their overall enjoyment I felt like a detailed rundown along with opinions on what settings were best to play on would be worth including
+Many games lack detailed descriptions of their difficulty settings, often providing only vague statements. This database aims to fill that gap by offering comprehensive rundowns and opinions on optimal settings, enhancing players' overall enjoyment and helping them make informed decisions.
 
 - - -
 
-## README Examples
+## Examples
 
-I have included examples of a [README.md](milestone1-readme.md) and [TESTING.md](milestone1-testing.md) for you to look over to get an idea of how you can layout your files and what should be included. I have based this off the README's I have created for my own projects, however I would urge you to make sure that you go through your course criteria for your project to make sure that you include everything required in your own README, as the requirements may change at any point.
-
+![image](https://github.com/user-attachments/assets/96dd5766-cf1f-40db-9368-43692b584f13)
 - - -
 
-## How to Write Your README
+## How to use the Database
 
-README files are written using markdown, a lightweight plain text syntax.
+Submitting Information
+To submit information about a game:
 
-There are some really cool features in markdown that you might want to include in your README, and I've included some below. I've also included some links to some further reading on markdown.
+Click the "Submit" button.
+Fill out the form with game details and difficulty settings.
+Click "Submit" to add your information to the database.
+Retrieving Information
+To retrieve information:
 
-### Headings
+Navigate to the search section.
+Select the categories you're interested in, such as custom difficulty features.
+Browse through the results based on your selected criteria.
 
-Just like with HTML, markdown has headings. Markdown headings are very similar to HTML headings: there are 6 heading levels, you can only use one level 1 heading per page and ach heading level is smaller than the last.
+### Features
 
-To create a heading in Markdown you use a hash symbol (#) followed by a space and the heading. The number of hashes denotes the level of the heading - so for a level 1 heading you use 1 hash, a level 2 has 2 hashes etc. The example below shows how you would write a level 3 heading:
-
-  ![Heading Example](documentation/heading-example.png)
+Submit Game Information: Add details about game difficulty settings.
+Search Functionality: Find games based on various difficulty features and settings.
 
 ### Links
-
-Links are also really useful in Markdown, and are really simple to write. There are two ways to include links in your README:  
-
-You can paste a link into your README and it will display as a link, <https://www.github.com/kera-cudmore> - but these can throw a markdown lint error, look a bit messy especially if the link is rather lengthy, and sometimes the URL address doesn't make it clear as to what the link redirects to.
-
-My preferred way to add a link which addresses both these issues is to make a link the following way: place the name of the link that will be visible in the README enclosed in square brackets followed by the link enclosed in parentheses. [View My GitHub Profile Here](https://www.github.com )
-
-  ![Link Example](documentation/link-example.png)
-
-You can also create a link with headings. When you create a heading, GitHub will generate an ID based on this. This is really useful if you then want to create a link to that heading within your README.  (A good example of this is the contents section.) They are very similar to a link - We need to put the text that will be displayed into the square brackets and then within the parentheses we use a hash followed by the heading - note that we can't use spaces so these need to be changed to a dash)
-
-![Heading Links Example](documentation/heading-links.png)
 
 ### Inserting Images
 
