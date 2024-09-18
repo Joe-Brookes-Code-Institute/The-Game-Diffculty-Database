@@ -1,0 +1,14 @@
+<h1>{{ game.title }}</h1>
+<h2>Difficulties</h2>
+<ul>
+    {% for difficulty in difficulties %}
+        <li>{{ difficulty.difficulty_name }} - Enemy Health: {{ difficulty.enemy_health }}% | Player Health: {{ difficulty.player_health }}%</li>
+        <p>Opinion: {{ difficulty.opinion }}</p>
+        <ul>
+            <li>AI Difficulty: {{ difficulty.ai_difficulty }}</li>
+            <li>Extra Content: {{ difficulty.extra_content }}</li>
+            <li>Exclusive Unlockables: {{ difficulty.exclusive_unlockables }}</li>
+            <li>New Game Plus Only: {{ difficulty.new_game_plus_only }}</li>
+        </ul>
+    {% endfor %}
+</ul>

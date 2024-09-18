@@ -1,0 +1,7 @@
+<h1>Games</h1>
+<ul>
+    {% for game in games %}
+        <li><a href="{% url 'game_detail' game.id %}">{{ game.title }}</a></li>
+    {% endfor %}
+</ul>
+<a href="{% url 'submit_difficulty' %}">Submit New Difficulty</a>
